@@ -20,7 +20,7 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             Lab08TeoTheme {
-                Prog()
+                ProgPrincipal81()
             }
         }
     }
